@@ -20,19 +20,6 @@ Experienced with frontend, backend, architecture, and documentation
   <img src="https://skillicons.dev/icons?i=py,java,ts,django,spring,angular,figma,js,html,css,tailwind,docker,postgres&theme=dark" />
 </p>
 
-## 🧩 Projects
-
-Here are some of my featured projects 👇
-
-<p align="center">
-  <a href="https://github.com/tads-cnat/Pulso">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tads-cnat&repo=Pulso&theme=github_dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/IcaroGabrielIcaro/Interfaces-Ricas">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IcaroGabrielIcaro&repo=Interfaces-Ricas&theme=github_dark&hide_border=true" />
-  </a>
-</p>
-
 ## 💬 About Me
 
 I’m passionate about building scalable, efficient, and well-structured software systems.  
